@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مشروع أُفق | Horizon - ترويج السياحة المستدامة 2026</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;700;900&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>أُفق | HORIZON</h1>
+        <p>المخطط التشغيلي واللوجستي لرحلة الدراجات الكهربائية الأولى في سورية</p>
+    </header>
+
+    <div class="wrapper">
+        
+        <div class="section-header">
+            <h2>المسار الزمني والجغرافي الدقيق</h2>
+            <p>خمسة أيام من استكشاف الطبيعة، التاريخ، والتقاليد السورية</p>
+        </div>
+
+        <div class="itinerary">
+            <div class="day-block" data-day="1">
+                <span class="day-num">اليوم الأول: الناصرة - سد المزينة</span>
+                <div class="slot"><div class="slot-time">10:00 ص</div><div class="slot-content">التجمُّع في بلدة <b>الناصرة</b>، معايرة الدراجات الكهربائية وتوزيع خرائط المسار الرقمية.</div></div>
+                <div class="slot"><div class="slot-time">11:30 ص</div><div class="slot-content">انطلاق الرحلة باتجاه <b>قلعة الحصن</b>؛ جولة استكشافية للأبراج والأقبية التاريخية.</div></div>
+                <div class="slot"><div class="slot-time">02:00 ظ</div><div class="slot-content">غداء ريفي أصيل في مطعم القلعة المطل على وادي النصارى.</div></div>
+                <div class="slot"><div class="slot-time">06:00 م</div><div class="slot-content">الوصول إلى <b>سد المزينة</b>؛ ممارسة فعالية صيد السمك ونصب خيام المبيت على ضفاف البحيرة.</div></div>
+            </div>
+
+            <div class="day-block" data-day="2">
+                <span class="day-num">اليوم الثاني: الحواش - جبل السايح</span>
+                <div class="slot"><div class="slot-time">09:00 ص</div><div class="slot-content">إفطار جبلي من إنتاج مزارع <b>الحواش</b> (مكدوس، زيتون، ألبان بلدية).</div></div>
+                <div class="slot"><div class="slot-time">11:30 ص</div><div class="slot-content">تحدي صعود قمة <b>تمثال السيدة مريم</b>؛ اختبار قوة دفع الـ E-Bikes في المرتفعات الحادة.</div></div>
+                <div class="slot"><div class="slot-time">05:00 ع</div><div class="slot-content"><b>فعالية الأصالة:</b> مبيت بضيافة العائلات السورية (Home-stay) ومشاركتهم إعداد وجبة العشاء.</div></div>
+            </div>
+
+            <div class="day-block" data-day="3">
+                <span class="day-num">اليوم الثالث: غابات ريف صافيتا</span>
+                <div class="slot"><div class="slot-time">10:00 ص</div><div class="slot-content">انطلاق مسار الغابات المفتوح باتجاه مدينة <b>صافيتا</b>.</div></div>
+                <div class="slot"><div class="slot-time">12:30 ظ</div><div class="slot-content">زيارة <b>برج صافيتا</b> الأثري وتناول القهوة العربية في ساحة البرج التاريخية.</div></div>
+                <div class="slot"><div class="slot-time">04:00 ع</div><div class="slot-content"><b>ورشة عمل:</b> تعلم فنون خبز التنور السوري والمشاركة في إعداد "المناقيش" الساخنة.</div></div>
+            </div>
+
+            <div class="day-block" data-day="4">
+                <span class="day-num">اليوم الرابع: مشتى الحلو ومغارة الدويات</span>
+                <div class="slot"><div class="slot-time">11:00 ص</div><div class="slot-content">دخول بلدة <b>مشتى الحلو</b> والقيام بجولة استكشافية داخل مغارة الدويات الطبيعية.</div></div>
+                <div class="slot"><div class="slot-time">03:00 ع</div><div class="slot-content"><b>سياحة زراعية:</b> مشاركة المزارعين في قطاف فواكه الموسم (تفاح ودراق) في بساتين المشتى.</div></div>
+                <div class="slot"><div class="slot-time">08:00 م</div><div class="slot-content">سهرة "خبز الملة" التقليدية تحت الرماد في مخيم مشتى الحلو الجبلي.</div></div>
+            </div>
+
+            <div class="day-block" data-day="5">
+                <span class="day-num">اليوم الخامس: الاستشفاء والنزول الذهبي</span>
+                <div class="slot"><div class="slot-time">01:00 ظ</div><div class="slot-content">زيارة <b>حمام واصل</b>؛ جلسة استشفاء طبيعي في الينابيع الكبريتية وتدليك مائي.</div></div>
+                <div class="slot"><div class="slot-time">04:30 ع</div><div class="slot-content">انطلاق <b>النزول الذهبي</b> نحو طرطوس؛ التمتع بمشهد الغروب فوق البحر أثناء القيادة الانسيابية.</div></div>
+                <div class="slot"><div class="slot-time">07:00 م</div><div class="slot-content">الوصول إلى شاطئ <b>طرطوس</b>؛ السباحة الختامية وتوزيع ذكريات الرحلة الرقمية.</div></div>
+            </div>
+        </div>
+
+        <div class="info-grid">
+            <div class="card-luxury">
+                <h3>التكلفة الكلية للرحلة</h3>
+                <span class="price-display">1,000,000 <span>ل.س</span></span>
+                <p>باقة (Luxury-Eco) شاملة: استئجار الدراجة، سيارة الدعم، كافة الوجبات، والمبيت الريفي.</p>
+            </div>
+            <div class="logistics-box">
+                <h3>الخدمات اللوجستية والدعم</h3>
+                <ul class="specs-list">
+                    <li><b>الدراجات:</b> محركات 500W Mid-drive، بطاريات ليثيوم 48V.</li>
+                    <li><b>الدعم:</b> سيارة دفع رباعي مرافقة لنقل الأمتعة والمؤن.</li>
+                    <li><b>الصيانة:</b> ميكانيكي دراجات محترف مجهز بقطع غيار كاملة.</li>
+                    <li><b>التوثيق:</b> تصوير "درون" فوتوغرافي وفيديو طوال المسار.</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        <div class="footer-logo">أُفق</div>
+        <p>إعداد الطالب: <b>يزن ملحم</b> | إشراف الدكتور: <b>مرهف الحمود</b></p>
+        <p style="opacity: 0.7;">مشروع تخرج - كلية السياحة - جامعة حمص 2026</p>
+        <p style="margin-top: 20px; font-weight: bold; color: var(--gold-premium);">963993491044+</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+:root {
+    --primary-dark: #0f2e1e;
+    --gold-premium: #c5a059;
+    --accent-gold: #d4af37;
+    --off-white: #fbfbf9;
+    --text-dark: #1a1a1a;
+    --gray-light: #f2f4f2;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    font-family: 'Cairo', sans-serif;
+    margin: 0;
+    background-color: var(--off-white);
+    color: var(--text-dark);
+    line-height: 1.8;
+    scroll-behavior: smooth;
+}
+
+/* ===== HEADER ===== */
+header {
+    background: linear-gradient(rgba(15, 46, 30, 0.85), rgba(15, 46, 30, 0.85)),
+        url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2000');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 65vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    border-bottom: 8px solid var(--gold-premium);
+    animation: fadeIn 1s ease-out;
+}
+
+header h1 {
+    font-family: 'Amiri', serif;
+    font-size: clamp(2rem, 8vw, 5rem);
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+
+header p {
+    font-size: clamp(1rem, 3vw, 1.5rem);
+    font-weight: 300;
+    margin-top: 10px;
+    opacity: 0.9;
+    border-top: 1px solid var(--gold-premium);
+    padding-top: 15px;
+    max-width: 800px;
+}
+
+/* ===== WRAPPER ===== */
+.wrapper {
+    max-width: 1200px;
+    margin: -80px auto 80px;
+    background: white;
+    border-radius: 30px;
+    padding: clamp(30px, 5vw, 60px);
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.12);
+}
+
+/* ===== SECTION HEADER ===== */
+.section-header {
+    text-align: center;
+    margin-bottom: 60px;
+    animation: slideUp 0.6s ease-out;
+}
+
+.section-header h2 {
+    color: var(--primary-dark);
+    font-size: clamp(1.8rem, 5vw, 2.5rem);
+    font-weight: 900;
+    margin-bottom: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.section-header h2::after {
+    content: '';
+    width: 60%;
+    height: 4px;
+    background: var(--gold-premium);
+    position: absolute;
+    bottom: -10px;
+    right: 20%;
+    border-radius: 2px;
+}
+
+.section-header p {
+    color: var(--text-dark);
+    font-size: clamp(1rem, 2.5vw, 1.1rem);
+    margin-top: 30px;
+}
+
+/* ===== ITINERARY ===== */
+.itinerary {
+    position: relative;
+    margin-top: 40px;
+}
+
+.day-block {
+    margin-bottom: 60px;
+    border-right: 10px solid var(--primary-dark);
+    padding-right: 30px;
+    position: relative;
+    transition: all 0.3s ease;
+    animation: slideInRight 0.6s ease-out forwards;
+    opacity: 0;
+}
+
+.day-block[data-day="1"] { animation-delay: 0.1s; }
+.day-block[data-day="2"] { animation-delay: 0.2s; }
+.day-block[data-day="3"] { animation-delay: 0.3s; }
+.day-block[data-day="4"] { animation-delay: 0.4s; }
+.day-block[data-day="5"] { animation-delay: 0.5s; }
+
+.day-block:hover {
+    border-right-color: var(--gold-premium);
+    transform: translateX(-10px);
+}
+
+.day-num {
+    background: var(--gold-premium);
+    color: var(--primary-dark);
+    padding: 8px 25px;
+    border-radius: 50px;
+    font-weight: 900;
+    font-size: 1.1rem;
+    display: inline-block;
+    margin-bottom: 25px;
+    transition: all 0.3s ease;
+}
+
+.day-block:hover .day-num {
+    background: var(--primary-dark);
+    color: var(--gold-premium);
+    transform: scale(1.05);
+}
+
+.slot {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    margin-bottom: 20px;
+    align-items: flex-start;
+    gap: 20px;
+    transition: all 0.3s ease;
+}
+
+.slot-time {
+    font-weight: 900;
+    color: var(--gold-premium);
+    font-size: 1.1rem;
+    border-left: 2px solid var(--gray-light);
+    margin-left: 20px;
+    padding-left: 15px;
+}
+
+.slot-content {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.slot-content b {
+    color: var(--primary-dark);
+    font-weight: 700;
+}
+
+.slot:hover .slot-content {
+    color: var(--gold-premium);
+}
+
+/* ===== INFO GRID ===== */
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 60px;
+}
+
+.card-luxury {
+    background: var(--primary-dark);
+    color: white;
+    padding: clamp(30px, 5vw, 45px);
+    border-radius: 25px;
+    border-bottom: 10px solid var(--gold-premium);
+    transition: all 0.3s ease;
+    animation: scaleIn 0.6s ease-out;
+}
+
+.card-luxury:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(15, 46, 30, 0.3);
+}
+
+.card-luxury h3 {
+    color: var(--gold-premium);
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    margin-top: 0;
+    font-family: 'Amiri', serif;
+}
+
+.price-display {
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    font-weight: 900;
+    margin: 20px 0;
+    display: block;
+    color: var(--gold-premium);
+}
+
+.price-display span {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: var(--gold-premium);
+    opacity: 0.8;
+}
+
+.logistics-box {
+    background: var(--gray-light);
+    padding: clamp(30px, 5vw, 45px);
+    border-radius: 25px;
+    transition: all 0.3s ease;
+    animation: scaleIn 0.6s ease-out 0.1s both;
+}
+
+.logistics-box h3 {
+    color: var(--primary-dark);
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    margin-top: 0;
+}
+
+.logistics-box:hover {
+    background: white;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.specs-list {
+    list-style: none;
+    padding: 0;
+}
+
+.specs-list li {
+    margin-bottom: 15px;
+    padding-right: 30px;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.specs-list li::before {
+    content: '✓';
+    position: absolute;
+    right: 0;
+    color: var(--gold-premium);
+    font-weight: 900;
+    font-size: 1.2rem;
+}
+
+.specs-list li:hover {
+    padding-right: 45px;
+    color: var(--primary-dark);
+}
+
+/* ===== FOOTER ===== */
+footer {
+    background: var(--primary-dark);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    border-top: 10px solid var(--gold-premium);
+}
+
+.footer-logo {
+    font-family: 'Amiri', serif;
+    font-size: clamp(1.5rem, 4vw, 2.5rem);
+    color: var(--gold-premium);
+    margin-bottom: 10px;
+}
+
+footer p {
+    margin: 10px 0;
+    font-size: clamp(0.9rem, 2vw, 1rem);
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideInRight {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes scaleIn {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+@media (max-width: 1024px) {
+    .wrapper {
+        margin: -60px auto 60px;
+        border-radius: 20px;
+    }
+
+    header h1 {
+        letter-spacing: 2px;
+    }
+
+    .info-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        min-height: 50vh;
+    }
+
+    .wrapper {
+        margin: -40px auto 40px;
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+    .section-header h2::after {
+        width: 80%;
+        right: 10%;
+    }
+
+    .day-block {
+        border-right-width: 6px;
+        padding-right: 20px;
+    }
+
+    .slot {
+        grid-template-columns: 100px 1fr;
+        gap: 15px;
+    }
+
+    .slot-time {
+        font-size: 0.95rem;
+        margin-left: 15px;
+    }
+
+    .slot-content {
+        font-size: 0.95rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        min-height: 40vh;
+    }
+
+    .wrapper {
+        margin: -30px auto 30px;
+        border-radius: 10px;
+        padding: 15px;
+    }
+
+    header h1 {
+        letter-spacing: 0;
+    }
+
+    header p {
+        border-top: none;
+        padding-top: 10px;
+        margin-top: 5px;
+    }
+
+    .section-header {
+        margin-bottom: 40px;
+    }
+
+    .day-block {
+        border-right-width: 4px;
+        padding-right: 15px;
+        margin-bottom: 40px;
+    }
+
+    .day-num {
+        font-size: 0.95rem;
+        padding: 6px 20px;
+    }
+
+    .slot {
+        grid-template-columns: 80px 1fr;
+        gap: 10px;
+        margin-bottom: 15px;
+    }
+
+    .slot-time {
+        font-size: 0.9rem;
+        margin-left: 10px;
+        padding-left: 10px;
+    }
+
+    .slot-content {
+        font-size: 0.9rem;
+        line-height: 1.5;
+    }
+
+    .card-luxury,
+    .logistics-box {
+        padding: 20px;
+    }
+
+    .price-display {
+        margin: 15px 0;
+    }
+
+    footer {
+        padding: 40px 15px;
+    }
+
+    .footer-logo {
+        margin-bottom: 8px;
+    }
+}
+
+/* ===== PRINT STYLES ===== */
+@media print {
+    header {
+        background: var(--primary-dark);
+    }
+
+    .wrapper {
+        box-shadow: none;
+        border-radius: 0;
+    }
+
+    .day-block {
+        page-break-inside: avoid;
+    }
+}this.style.transform
+# 🚴‍♂️ Horizon (أُفق) - Sustainable E-Bike Tourism Project
+
+A graduation project showcasing a sustainable 5-day electric bike tour across Syria, combining modern technology with traditional tourism experiences.
+
+## 📋 Project Overview
+
+**Project Name:** Horizon (أُفق)  
+**Duration:** 5 Days  
+**Mode:** Electric Bike (E-Bike) Tours  
+**Route:** Syrian Countryside & Heritage Sites  
+**Student:** Yazn Malhim  
+**Advisor:** Dr. Morhaff Al-Hamoud  
+**Institution:** Homs University, Faculty of Tourism  
+**Year:** 2026
+
+## 🗺️ Route Details
+
+### Day 1: Nasra - Mozineh Dam
+- E-bike calibration and digital map distribution
+- Visit to Hosn Castle (Crac des Chevaliers)
+- Traditional lunch at castle restaurant
+- Overnight camping at Mozineh Dam
+
+### Day 2: Al-Hawash - Mount Al-Sayih
+- Mountain breakfast from local farms
+- Climb to Virgin Mary statue
+- Home-stay with Syrian families (authentic experience)
+- Dinner preparation workshop
+
+### Day 3: Safita Forest Trails
+- Forest biking path to Safita city
+- Historic Safita Tower visit
+- Traditional Syrian oven bread-making workshop
+- Homemade bread (Manakish) tasting
+
+### Day 4: Misyaf - Al-Duwayat Cave
+- Natural cave exploration
+- Agricultural tourism: fruit harvesting
+- Traditional "Khubz Al-Mella" bread preparation
+- Mountain campfire gathering
+
+### Day 5: Golden Descent to Tartus
+- Natural thermal spring therapy (Wasil Baths)
+- Sunset descent toward Tartus
+- Beach swimming and trip memories distribution
+
+## 💰 Pricing
+
+**Total Package:** 1,000,000 Syrian Pounds (Luxury-Eco)
+
+### Includes:
+- ✅ E-bike rental (500W Mid-drive, 48V Lithium battery)
+- ✅ Support vehicle (4x4) for luggage and supplies
+- ✅ Professional bike mechanic with spare parts
+- ✅ All meals (local cuisine)
+- ✅ Accommodation (camping & home-stay)
+- ✅ Drone photography & videography
+- ✅ Digital route maps
+- ✅ Professional guide
+
+## 🛠️ Technical Stack
+
+- **Frontend:** HTML5, CSS3 (Responsive Design)
+- **JavaScript:** Vanilla JS with Intersection Observer
+- **Fonts:** Cairo & Amiri (Arabic typography)
+- **Design:** RTL Support, Mobile-First Approach
+- **Hosting:** GitHub Pages
+
+## 📱 Features
+
+### Design Features
+- ✨ Fully responsive (Desktop, Tablet, Mobile)
+- 🌐 Arabic (RTL) & English support
+- 📊 Interactive timeline interface
+- 🎨 Premium color scheme (Dark Green & Gold)
+- ♿ Accessibility compliant
+
+### Interactive Elements
+- Smooth scroll animations
+- Hover effects on day blocks
+- Fade-in animations
+- Responsive grid layouts
+- Touch-friendly mobile interface
+
+## 🚀 Deployment
+
+### GitHub Pages Setup
+
+1. Go to **Settings → Pages**
+2. Select `main` branch as source
+3. Choose `/root` folder
+4. Your site will be live at: `https://yourusername.github.io/Yaazn/`
+
+### Local Development
+
+```bash
+# Clone repository
+git clone https://github.com/mhsn88991n-source/Yaazn.git
+
+# Navigate to directory
+cd Yaazn
+
+# Open in browser
+open index.html
